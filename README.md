@@ -1,4 +1,12 @@
 # RAG-Faith-Embed
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Milvus](https://img.shields.io/badge/Milvus-00BFA5?style=for-the-badge&logo=zilliz&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-FF5A5F?style=for-the-badge&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-1E90FF?style=for-the-badge&logo=gnu&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
 CS646 Final Project - The Impact of Embedding Methods on Faithfulness of Retrieval-Augmented Generation (RAG)
 
 This study was performed for CS646 as a final project in the Fall 2024 semester. The project was worked on as a group of three members.
